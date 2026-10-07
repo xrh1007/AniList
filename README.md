@@ -1,4 +1,5 @@
 # AniList
+孩子自己vibe-coding的，发布才发现重名了✋😭🤚，（官方站在此：https://docs.anilist.co/）
 
 一款专为二次元爱好者设计的**个人作品追踪 App**，帮助你系统化管理轻小说、动漫、漫画与 Galgame 四种作品的观看/游玩进度。
 
